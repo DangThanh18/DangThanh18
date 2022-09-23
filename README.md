@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning at UNETI.
+- 👀 I’m interested in game and database.
+- 😄 Pronouns: he/him.
+- 🤔 I want to learn more about IT.
+- 📫 How to reach me: <a href="https://mail.google.com/mail/u/1/?pli=1#inbox">tienthanh.18112k2@gmail.com</a>.
 <!--
 **DangThanh18/DangThanh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
